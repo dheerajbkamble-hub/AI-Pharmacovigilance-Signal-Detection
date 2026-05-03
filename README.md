@@ -1,3 +1,5 @@
+📄 Independent research project exploring AI-assisted pharmacovigilance signal detection using statistical and machine learning approaches.
+
 ## 📊 Visual Results
 ### ADR Distribution by Drug
 ![Bar Plot](bar_plot.png)
